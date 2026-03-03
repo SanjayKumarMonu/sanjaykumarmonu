@@ -1,30 +1,3 @@
-<!--
-How to use:
-1) Replace YOUR_GITHUB_USERNAME everywhere.
-2) Update links (website, microblog, LinkedIn, WordPress).
-3) If you add a banner image, create /assets/banner.png in this repo and keep the path as-is.
--->
-
-<p align="center">
-  <img src="assets/banner.png" alt="Sanjay Kumar Monu — SEO + GEO + Automation" width="100%" />
-</p>
-
-<h1 align="center">Sanjay Kumar Monu</h1>
-
-<p align="center">
-  SEO Manager • Technical SEO • GEO (AI Search) • Programmatic SEO • WordPress • Analytics
-</p>
-
-<p align="center">
-  <a href="https://techchahiye.com">Techchahiye</a> •
-  <a href="https://muzcorner.in">Muzcorner</a> •
-  <a href="https://sketchweb.net">Sketchweb</a> •
-  <a href="https://llmic.com">LLMic</a> •
-  <a href="https://www.linkedin.com/in/sanjay-kumar-monu/">LinkedIn</a>
-</p>
-
----
-
 ## About
 
 I’m an SEO Manager and builder focused on making websites easier to crawl, easier to understand, and easier to win — both in Google Search and in AI-driven search experiences.
